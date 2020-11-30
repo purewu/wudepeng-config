@@ -1,9 +1,7 @@
-server:
-  port: 1001
 
 
 config:
-  version: 1
+  version: 2
   
 
 
